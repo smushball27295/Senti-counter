@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  4 19:38:27 2020
 
-@author: aryan
-"""
 
 def loadlexicon(fname): #Creating a function to load the lexicons 
     new_lex=set()
